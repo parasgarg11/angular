@@ -7,7 +7,9 @@ with an Angular project easy!
 Here's what is in the project:
 
 * Angular scripts and TypeScript configuration are ready to go
+
 * A simple app component 
+
 * Bootstrap for CSS (Cascade Style Sheets)
 
 This is a very simple "Hello World" project to help get you started.
@@ -16,12 +18,15 @@ If you're using VS Code, install my [Angular code snippets](https://blog.codewit
 to simplify the process of writing Angular code. The code snippets make it easy
 to build Angular components, services, pipes, directives and more.
 
+
 ## Running the Application
 
 1. Install the Angular CLI
     `npm install -g @angular/cli`
 2. Run `npm install`
+
 3. Run `ng serve -o`
 
 4. EXTRA
 4. EXTRA4. EXTRA4. EXTRA4. EXTRA4. EXTRA4. EXTRA5. 
+
