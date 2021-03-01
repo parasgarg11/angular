@@ -5,10 +5,6 @@ The Hello World project is an Angular 2+ starter project that has the npm module
 configuration, scripts and folders and routing in place to make getting started 
 with an Angular project easy!
 
-The Hello World project is an Angular 2+ starter project that has the npm modules, 
-configuration, scripts and folders and routing in place to make getting started 
-with an Angular project easy!
-
 Here's what is in the project:
 
 * Angular scripts and TypeScript configuration are ready to go
